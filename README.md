@@ -1,4 +1,4 @@
-# Colorful MNIST cover
+# Colorful MNIST images
 This repository provides the code to create images with colourful MNIST digits, with varying amounts of hue, saturation and brightness.
 I used this code to create the background of my PhD thesis cover:
 
