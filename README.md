@@ -1,11 +1,13 @@
 # Colorful MNIST images
-This repository provides the code to create images with colourful MNIST digits, with varying amounts of hue, saturation and brightness.
+This repository provides the code to create images with colourful digits, with varying amounts of hue, saturation and brightness.
+The code is built on the [MNIST dataset](https://yann.lecun.com/exdb/mnist/).
+
 I used this code to create the background of my PhD thesis cover:
 
 ![thesis-cover.jpg](figures/thesis-cover.jpg)
 
 More examples:
-![examples.jpg](figures%2Fexamples.jpg)
+![examples.jpg](figures/examples.jpg)
 
 
 ## Requirements
